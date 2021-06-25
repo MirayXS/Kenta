@@ -1,1 +1,1 @@
-loadstring(game:HttpGet(("https://github.com/A1sky/Kenta/blob/main/Main.lua"), true))()
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/A1sky/Kenta/main/Main.lua"), true))()
